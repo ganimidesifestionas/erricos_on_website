@@ -25,7 +25,7 @@ else:
     os.environ["MAIL_USE_TLS"] = "False"
     os.environ["MAIL_USE_SSL"] = "True"
     os.environ["MAIL_USERNAME"] = "ganimidis@gmail.com"
-    os.environ["MAIL_PASSWORD"] = "philea13"
+    os.environ["MAIL_PASSWORD"] = "****"
 
 if EXECUTION_ENVIRONMENT=='pythonanywhere':
     os.environ["RECAPTCHA_SITE_KEY"] = "6LfEOH4UAAAAAKTQUTNS0CJODZ4DbVFi0cQl1oUn"
